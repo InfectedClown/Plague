@@ -6,3 +6,8 @@ Java source obfuscator
 * Download the version you want in [releases](https://github.com/InfectedClown/Plague/releases) for your platform
 * Run the executable.
 * Done.
+
+## License
+
+[MIT](https://github.com/InfectedClown/Plague/blob/master/LICENSE)
+
